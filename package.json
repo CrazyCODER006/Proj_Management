@@ -1,0 +1,22 @@
+{
+  "name": "projmanage",
+  "version": "1.0.0",
+  "description": "a project management application for beginers",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "udemy",
+    "course",
+    "backend",
+    "API",
+    "creation"
+  ],
+  "author": "prithwiraj biswas",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
